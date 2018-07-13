@@ -1,0 +1,16 @@
+
+deb http://th.archive.ubuntu.com/ubuntu/ bionic main restricted
+deb http://th.archive.ubuntu.com/ubuntu/ bionic-updates main restricted
+
+deb http://th.archive.ubuntu.com/ubuntu/ bionic universe
+deb http://th.archive.ubuntu.com/ubuntu/ bionic-updates universe
+
+deb http://th.archive.ubuntu.com/ubuntu/ bionic multiverse
+deb http://th.archive.ubuntu.com/ubuntu/ bionic-updates multiverse
+
+deb http://th.archive.ubuntu.com/ubuntu/ bionic-backports main restricted universe multiverse
+
+deb http://security.ubuntu.com/ubuntu bionic-security main restricted multiverse
+deb http://security.ubuntu.com/ubuntu bionic-security universe
+
+# deb-src [arch=amd64] https://download.docker.com/linux/ubuntu xenial stable
